@@ -1,0 +1,12 @@
+{
+  "preferences":
+    {
+      "tchat_token": "",
+      "tchat_proxy": "",
+      "tchat_protocol": "https",
+      "tchat_id": "",
+      "youtrack_url": "",
+      "youtrack_token": "",
+      "youtrack_project": ""
+    }
+}
