@@ -1,0 +1,4 @@
+black==18.9b0
+telebot==0.0.3
+socks5==0.2.1
+requests==2.22.0
